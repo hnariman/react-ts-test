@@ -7,8 +7,8 @@ A beer has a name, image and tagline.
 
 Features for the application:
 
-1. Pull 30 beers using this API https://api.punkapi.com/v2/beers/random NOTE: exactly this url
-2. Display the most recent beers (last beer on top), as a grid view
+````1. Pull 30 beers using this API https://api.punkapi.com/v2/beers/random NOTE: exactly this url
+2. Display the most recent beers (last beer on top), as a grid view```
 
 ### Your task is to write a well-organized application that:
 
@@ -32,3 +32,4 @@ Features for the application:
     • Footer must be anchored on the bottom
     • Content need to be scrollable
     • Layout need to be responsive
+````
