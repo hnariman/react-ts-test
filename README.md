@@ -1,6 +1,7 @@
 # Code Challenge
 
-## Task is being submitted on codesandbox.io -> [link] (https://codesandbox.io/s/falling-surf-ud42b?file=/README.md)
+## Task is being submitted on codesandbox.io -> 
+[Follow link] (https://codesandbox.io/s/falling-surf-ud42b?file=/README.md)
 
 ## Goal
 
