@@ -33,4 +33,4 @@
     • Content need to be scrollable
     • Layout need to be responsive
 
-## Template [image](https://github.com/hnariman/react-ts-test/blob/master/public/template-1.png)
+## Template ![image](https://github.com/hnariman/react-ts-test/blob/master/public/template-1.png)
