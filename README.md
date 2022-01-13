@@ -11,23 +11,19 @@ Features for the application:
 2. Display the most recent beers (last beer on top), as a grid view```
 
 ### Your task is to write a well-organized application that:
-
 • Implement the UI, based on the provided mockups
 • Implement some unit + e2e test that ensure the correctness of the solution.
 • Use Typescript
 
 ### Required:
-
     • Maintainable and well-written code
     • Keep in mind maintainability over premature optimization
 
 ### NOT required:
-
     • Usage of databases or any data source connection
     • pixel perfect layout
 
 ### Mockup (Guideline):
-
     • Header must be anchored on the top
     • Footer must be anchored on the bottom
     • Content need to be scrollable
