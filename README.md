@@ -1,7 +1,7 @@
 # Code Challenge
 
-## Task is being submitted on codesandbox.io -> 
-[Follow link](https://codesandbox.io/s/falling-surf-ud42b?file=/README.md)
+## Task is being submitted on 
+[codesandbox.io -> ](https://codesandbox.io/s/falling-surf-ud42b?file=/README.md)
 
 ## Goal
 
@@ -36,4 +36,4 @@
     • Content need to be scrollable
     • Layout need to be responsive
 
-## Template ![image](https://github.com/hnariman/react-ts-test/blob/master/public/template-1.png)
+## Template ![image](https://github.com/hnariman/react-ts-test/blob/master/public/layout.png)
