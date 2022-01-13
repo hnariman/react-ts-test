@@ -1,5 +1,7 @@
 # Code Challenge
 
+## Task is being submitted on codesandbox.io -> [link] (https://codesandbox.io/s/falling-surf-ud42b?file=/README.md)
+
 ## Goal
 
     Build a web application that displays a list of beers with image.
